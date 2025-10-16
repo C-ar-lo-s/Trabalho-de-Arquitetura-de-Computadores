@@ -1,7 +1,7 @@
 // 202501441581 Carlos Vinicius Oiticica Jund TA
 // 202501511031 Heitor Gonçalves Lima TA
 // 202502579519 Pietro Baldo Albuquerque TA
-// 202501001254 Gianluca Leinardi TA
+// 202501001254 Gianluca Leonardi TA
 // 202503545189 Rafael Tomaz TA
 // 202407321976 Vinícius Marinho Queiroz TA
 
